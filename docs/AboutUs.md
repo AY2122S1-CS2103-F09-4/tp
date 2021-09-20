@@ -9,15 +9,14 @@ You can reach us at the email `seer[at]comp.nus.edu.sg`
 
 ## Project team
 
-### John Doe
+### Chan Yu Cheng
 
-<img src="images/johndoe.png" width="200px">
+<img src="images/yucheng11122017.png" width="200px">
 
-[[homepage](http://www.comp.nus.edu.sg/~damithch)]
-[[github](https://github.com/johndoe)]
-[[portfolio](team/johndoe.md)]
+[[github](https://github.com/yucheng11122017)]
+[[portfolio](team/chanyucheng.md)]
 
-* Role: Project Advisor
+* Role: In charge of Model
 
 ### Jane Doe
 
