@@ -1,17 +1,26 @@
 package seedu.address.model.person;
 
 import static java.util.Objects.requireNonNull;
+import static seedu.address.commons.util.AppUtil.checkArgument;
 
 /**
  * Represents a Person's remark in the address book.
  * Guarantees: immutable; is always valid
  */
 public class Remark {
+    public static final String MESSAGE_CONSTRAINTS = "Remark can take any values, and it should not be blank";
+
     public final String value;
 
-    public Remark(String remark) {
-        requireNonNull(remark);
-        value = remark;
+    /**
+     * Constructs an {@code Address}.
+     *
+     * @param text A valid address.
+     */
+    public Remark(String text) {
+        requireNonNull(text);
+        checkArgument(true, MESSAGE_CONSTRAINTS);
+        value = text;
     }
 
     @Override
